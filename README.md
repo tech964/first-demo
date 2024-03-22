@@ -1,2 +1,2 @@
 # first-demo
-this start point
+the starting point
